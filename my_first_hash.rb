@@ -13,6 +13,6 @@ end
 
 def adding
 	shipping_manifest
-	shipping_manifest["pearl necklace"] = 1
+	the_manifest["pearl necklace"] = 1
 	shipping_manifest
 end
